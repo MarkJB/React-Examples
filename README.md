@@ -1,3 +1,7 @@
-A collection of React Examples built using different tools like vite `npm create vite@latest`
+A collection of React Examples built using different tools like vite and Next.js
 
 These are simple examples like a ToDo (more to be added)
+
+1. `vite/todo` This is a basic todo that uses local state.
+2. `vite/todo_componentized` Expands on the first example, but breaks it up into components and data and types moved into separate files.
+3. `nextjs/todo` Ports `vite/todo_componetized` to Next.js
