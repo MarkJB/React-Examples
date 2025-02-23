@@ -1,0 +1,14 @@
+Some demos (typical basics/interview samples) for React App (vite)
+
+Scaffold (or create) a new project using vite:
+
+`npm create vite@latest`
+
+Then follow the prompts.
+
+Note: typescript vs typescript + swc - swc is a faster bundler/compiler
+
+Note: this will ask for a project name and creates a folder of that name.
+
+Then `npm install` (maybe `npm ci` would also work here)
+Run with `npm run dev`
