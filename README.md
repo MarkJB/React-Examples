@@ -5,3 +5,5 @@ These are simple examples like a ToDo (more to be added)
 1. `vite/todo` This is a basic todo that uses local state.
 2. `vite/todo_componentized` Expands on the first example, but breaks it up into components and data and types moved into separate files.
 3. `nextjs/todo` Ports `vite/todo_componetized` to Next.js
+
+Next steps - Create something using the https://swapi.dev/ starwars API
