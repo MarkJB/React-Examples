@@ -2,13 +2,17 @@
 
 Built with Expo using Typescript, React Native Paper UI component library on the Android Studio emulator.
 
-See assets/screenshots
+![image](https://github.com/user-attachments/assets/ae06e167-a228-4393-ad85-ad6410ec89be)
 
 - Provides an text field to enter a todo and a button to add that todo to the scrollable list.
 
 - Todo input field prevents the user adding an empty todo (shows a toast message).
 
+![image](https://github.com/user-attachments/assets/3aee465e-9de3-4f3e-8212-a982001507f7)
+
 - Todos can be deleted. Toast message shown on deletion.
+
+![image](https://github.com/user-attachments/assets/87905875-af80-4322-87b9-9c23d6f6c200)
 
 ## Limitations & Improvements
 
