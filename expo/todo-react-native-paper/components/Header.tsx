@@ -6,7 +6,7 @@ const Header = () => {
     <View style={styles.title}>
       <Text variant="headlineSmall">ToDo Demo App</Text>
       <Text variant="bodyMedium">
-        Built using Andoird Emulator, React Native, React Native Paper and
+        Built using Android Emulator, React Native, React Native Paper and
         Typescript
       </Text>
     </View>
